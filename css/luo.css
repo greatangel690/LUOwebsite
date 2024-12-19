@@ -1,0 +1,189 @@
+/*css style sheet*/
+/* THIS IS FOR NAVIGATION*/
+
+nav ul{
+	list-style-type:none;
+	margin:NONE;
+	padding:10PX 60PX 10PX 10PX;
+	overflow: hidden;
+	background-color:#81156C;
+	text-align:center;
+	background-color:flex-flow;
+}
+nav li{
+	float:right;
+	font-family:segoe, "segoe UI","dejavu sans", "trebuchet MS", verdana, sana-serif;
+	font-size:1em;
+	line-height:NONE;
+	height:NONE;
+	border-bottom:none;
+}
+nav a{
+	text-decoration:none;
+	color:#FFF;
+	display:BLOCK;
+	padding:4px;
+	text-transform:uppercase;
+}
+ nav a:hover{
+	color:#757575;
+}
+div{
+	width:350px;
+	display:inline-table;
+	margin-left:70px;
+	margin-bottom:10px;
+}
+
+/*.four{
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}*/
+
+.one{
+margin:70px 50px 30px 50px;
+
+}
+
+.head{
+	line-height:30px;
+	font-size:20px;
+	color:#81156C;
+	text-transform:uppercase;
+	
+}
+.two{
+	font-size:20px;
+	color:#81156C;
+	line-height:100px;
+	text-transform:uppercase;
+	text-align:center;
+	margin-bottom:-30px;
+	margin-top:50px;
+}
+
+.six{
+	 color:#81156C;
+	 padding:0.5rem 1.0rem;
+	 border-radius:10px;
+	 font-size:1.5rem;
+	 cursor:pointer;
+	 border:2px solid #000;
+	 transition:1s;	
+	 text-decoration:none;
+	 text-align:center;
+	 background-color:#e8c4e1;
+	 box-shadow:0 20px 35px rgba(0,0,1,0.9);
+	 margin-left: 150px;
+	 margin-right: 100px;
+
+}
+.six:hover{
+	background-color:#81156C;
+}
+.allmap{
+    margin-bottom: 20px;
+	width: 50%;
+	background-color: rgb(231, 179, 223);
+	padding: 0;
+	position: absolute;
+	
+}
+.map{
+	float: left;
+	width: 30%;
+}
+.mapi{
+	width: 7%;
+	color: #000;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.pp{
+	margin-bottom: 20px;
+	color: #000;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.allp{
+	margin-top: 20px;
+}
+
+
+/* contact*/
+
+.us{
+	 margin-top:30px;
+margin-left:50px;
+margin-bottom:20px;	 
+}
+.fline{
+	margin-bottom:0;
+	margin-left:100px;
+	margin-top:30px;
+	font-size:20px;
+	margin-right:10px;
+}
+.fline i{	  
+     margin-right:10px;
+	 color:#81156C;
+}
+.sline{
+	margin-bottom:0;
+	margin-left:100px;
+	margin-top:0;
+	font-size:20px;
+	margin-right:10px;
+	
+}
+.sline i{	  
+     margin-right:10px;
+	 color:#81156C;
+}
+.tline{
+	margin-left:100px;
+	font-size:30px;
+	margin-right:10px;
+}
+.tline a{
+	margin-right:10px;
+}
+.tline i{
+	color:rgb(125,125,235);
+}
+.foline{
+	margin-bottom:0;
+	margin-left:100px;
+	margin-top:0;
+	font-size:20px;
+	margin-right:10px;
+	
+}
+.foline i{	  
+    margin-right:10px;
+	color:#81156C;
+}
+.student{
+margin-left: 70px;
+}
+
+/* About us*/
+/* seemore*/
+.courses{
+	  font-weight:bold;
+	  text-align:center;
+	  margin-top:50px;
+	  margin-bottom:50px;
+	  color:#81156C;
+}
+body{
+	background-color: #c9d6ff;
+	background:linear-gradient(to right,#d8aae4,#c0cbf1);
+}
+*{
+	margin:0;
+	padding:0;
+	font-family: "poppins",sans-serif;
+}
+

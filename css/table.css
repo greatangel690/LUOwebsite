@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: #c9d6ff;
+	background:linear-gradient(to right,#e1bceb,#c9d0e9);
+  }
+.at{
+    border: 1px solid black;
+    margin-top: 50px;
+    box-shadow:0 20px 35px rgba(37, 37, 37, 0.7);
+    margin: 50px 10px 70px 10px;
+    border-radius: 10px;
+    padding: 10px 0 10px 0;
+    background-color:#ffffff;
+}
+.st{
+    width: 100%;
+    border-collapse: collapse;
+
+   tr:nth-child(even){
+       background-color: rgb(172, 168, 172);
+   }
+       tr{
+        font-size: 13px;
+     }
+     td{
+        padding:10px 0px 10px 7px;
+     }
+     th{
+        padding:10px 2px 10px 7px;
+        text-align: left;
+     }
+
+}
+.ft{
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 10px;
+    
+    tr:nth-child(even){
+        background-color: rgb(172, 168, 172);
+    }
+   tr{
+      font-size: 13px;
+      border-radius: 10px;
+   }
+   td{
+    padding:6px 0px 6px 7px;
+ }
+}
+
+
+/*course allocation*/
+.ac{
+    border: 1px solid rgb(14, 1, 1);
+    padding: 10px;
+    border-radius: 10px;
+    background-color:#ceafca;
+    margin: 50px 20px 70px 20px;
+    box-shadow:0 20px 35px rgba(37, 37, 37, 0.7);
+    h2,h4{
+        text-align: center;
+    }
+}
+.ct{
+    width: 100%;
+}
+
+
